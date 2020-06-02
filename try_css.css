@@ -90,10 +90,10 @@ body{
 .title1:before{
 	content: "";
 	position: absolute;
-	top: 60px;
+	top: 70px;
 	right: 0;
 	width: 50px;
-	height: 4px;
+	height: 3px;
 	background: #3525af;
 }
 
@@ -181,14 +181,14 @@ body{
 
 .header{
 	background: #292b2f;
-	padding: 15px 30px;
+	padding: 0px 10px;
 	color: #fff;
 	height: 290px;
 }
 .header .name{
-	font-size: 52px;
+	font-size: 45px;
 	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 600;
 
 	color: #3525af;
 }
